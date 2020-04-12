@@ -10,5 +10,6 @@ In order to limit populations of feral cats, two initiatives have been adopted: 
 TNR is a humane practice of regulating populations and actually benefits the cats health and wellbeing. One of the first places to implement TNR was Newburyport, MA, which saw a dramatic reduction of feral cats by their waterfront over the course of 17 years. At the start, around 300 feral cats roamed freely, and after 17 years, ⅓ of these cats were adoptable, and the others were effectively neutralized in reproducing, leading to none left. 
 
 Our simulation uses statistics from this research study as well as other sources listed in the source code to illustrate the effectiveness of TNR through easy-to-understand visualizations. If people can see and conceptualize the effectiveness, more will be motivated to adopt programs and get started. Our visualizations promote equity in understanding through visualizations and through our simulation we hope to inform people of the environmental problems feral cats cause as well as show them ways to reduce the population of this invasive species.
-For more information check out: https://gizmodo.com/feral-cats-can-destroy-the-environment-1730710563 or 
+For more information check out: https://gizmodo.com/feral-cats-can-destroy-the-environment-1730710563 
+or 
 https://docs.google.com/presentation/d/1fOn9JfPNv8ywo_EzXR8Y_j8Vg4735Ley6II3q5WGbzs/edit#slide=id.p

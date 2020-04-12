@@ -26,7 +26,7 @@ while repeatOn == False:
     # function that predicts how many feral cats will be born into the community (birth rate)
     def catBirth(): 
       global UPDATED_CAT_POPULATION
-      FERTILE_CATS = random.randint(0,INIT_CAT_POPULATION)
+      FERTILE_CATS = random.randint(0,INIT_CAT_POPULATION)#assumes random number of feral cats are fertile and can have kittens
       x = FERTILE_CATS
       y = (CAT_REPRODUCTION_KITTEN_PRODUCTION * (1- KITTEN_MORTALITY_RATE)) #calculates number of kittens per litter 
       q = CAT_POPULATION
